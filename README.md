@@ -147,7 +147,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Check the [Issues](https://github.com/yourusername/StayOnTargetApp/issues) page for known problems
+- Check the [Issues](https://github.com/nlarion/stayOnTarget/issues) page for known problems
 
 ---
 
