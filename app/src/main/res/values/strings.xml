@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stay On Target</string>
+    <string name="reason_prompt">Why are you unlocking your phone?</string>
+    <string-array name="unlock_prompts">
+        <item>Why are you unlocking your phone?</item>
+        <item>What brings you here today?</item>
+        <item>What is the mission this time?</item>
+        <item>What are we looking for?</item>
+        <item>What is calling your attention?</item>
+        <item>Back again I see... no judgment</item>
+        <item>Hey there! What is on your mind?</item>
+        <item>Welcome back, friend. What is up?</item>
+        <item>Good to see you! What do you need?</item>
+        <item>Hi! What can your phone help with today?</item>
+        <item>What adventure are we going on?</item>
+        <item>What is it this time?</item>
+        <item>Whatcha looking for, buddy?</item>
+        <item>Another unlock, another story!</item>
+        <item>Peek-a-boo! What is the plan?</item>
+        <item>Oh, hello there! What is happening?</item>
+        <item>Ready for action? What is the goal?</item>
+        <item>Time for some phone magic? What kind?</item>
+        <item>Let me guess... just checking something quick?</item>
+        <item>Ah yes, the classic phone unlock. Purpose?</item>
+        <item>Another 5-second check that becomes 30 minutes?</item>
+        <item>Totally was not going to scroll, right?</item>
+        <item>This time it is definitely important, right?</item>
+        <item>Sure you are not just bored?</item>
+        <item>Make this unlock count! What is the goal?</item>
+        <item>Time to be intentional. What is the purpose?</item>
+        <item>Stay focused! What do you actually need?</item>
+        <item>Be mindful. What is truly important right now?</item>
+        <item>Make this meaningful. Why are you here?</item>
+        <item>Purposeful phone use starts now. What is needed?</item>
+        <item>Take a breath. What do you really need?</item>
+        <item>Pause and reflect. What is the intention?</item>
+        <item>Before we dive in, what is the purpose?</item>
+        <item>A moment of mindfulness: why unlock?</item>
+        <item>Gently asking: what is drawing you here?</item>
+        <item>With awareness, what is your true need?</item>
+        <item>Phone unlocked! Now what, genius?</item>
+        <item>Congratulations on unlocking! Purpose?</item>
+        <item>The phone is free! But why?</item>
+        <item>Unlock sound! Okay, spill it. What for?</item>
+        <item>Phone: unlocked. Brain: hopefully engaged. Why?</item>
+        <item>Achievement unlocked: Phone Access. Reason?</item>
+        <item>Hope you are doing well. What do you need?</item>
+        <item>Checking in on you. What is important right now?</item>
+        <item>Taking care of yourself today? What is needed?</item>
+        <item>Your wellbeing matters. What is the intention?</item>
+        <item>Being kind to yourself? What is the purpose?</item>
+        <item>Phone unlocked. State your business.</item>
+        <item>Unlock detected. Reason required.</item>
+        <item>What is the plan?</item>
+        <item>Purpose?</item>
+        <item>Intent?</item>
+        <item>What is needed?</item>
+        <item>Task at hand?</item>
+        <item>In this moment of connection, what is your why?</item>
+        <item>What story will this unlock tell?</item>
+        <item>Every unlock is a choice. What is yours?</item>
+        <item>What meaning will you create with this access?</item>
+        <item>Your attention is precious. Where will you direct it?</item>
+        <item>This moment will not come again. What is important?</item>
+        <item>Time is ticking. What is worth your attention?</item>
+        <item>How will you spend these next few minutes?</item>
+        <item>Another moment, another choice. What is yours?</item>
+        <item>What deserves your time right now?</item>
+        <item>What does your future self want you to do?</item>
+        <item>Are you being the person you want to be?</item>
+        <item>What would make you proud of this unlock?</item>
+        <item>How does this serve your bigger goals?</item>
+        <item>What is your highest priority right now?</item>
+        <item>You have got this! What is the focus?</item>
+        <item>Ready to be awesome? What is the mission?</item>
+        <item>You are in control. What is the conscious choice?</item>
+        <item>Believe in your intentions. What are they?</item>
+        <item>You are capable of mindful choices. What is this one?</item>
+    </string-array>
+    <string name="reason_hint">Enter your reason here...</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_notification_title">Active Task</string>
+    <string name="task_complete">Mark Complete</string>
+    <string name="notification_channel_name">Task Tracking</string>
+    <string name="notification_channel_description">Ongoing tasks from phone unlock reasons</string>
+</resources>
