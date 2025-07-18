@@ -48,7 +48,7 @@ class NotificationHelper(private val context: Context) {
         )
 
         val notification = NotificationCompat.Builder(context, channelId)
-            .setSmallIcon(android.R.drawable.ic_dialog_info)
+            .setSmallIcon(R.drawable.ic_target_notification)
             .setContentTitle(context.getString(R.string.task_notification_title))
             .setContentText(taskDescription)
             .setStyle(NotificationCompat.BigTextStyle().bigText(taskDescription))
@@ -56,7 +56,7 @@ class NotificationHelper(private val context: Context) {
             .setOngoing(true)
             .setAutoCancel(false)
             .addAction(
-                android.R.drawable.ic_menu_delete,
+                R.drawable.ic_target_notification,
                 context.getString(R.string.task_complete),
                 completePendingIntent
             )

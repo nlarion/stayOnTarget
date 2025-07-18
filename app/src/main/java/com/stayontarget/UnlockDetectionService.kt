@@ -59,7 +59,7 @@ class UnlockDetectionService : Service() {
         return NotificationCompat.Builder(this, CHANNEL_ID)
             .setContentTitle("Stay On Target")
             .setContentText("Monitoring unlock events")
-            .setSmallIcon(R.drawable.ic_launcher_foreground)
+            .setSmallIcon(R.drawable.ic_target_notification)
             .setContentIntent(pendingIntent)
             .setOngoing(true)
             .setPriority(NotificationCompat.PRIORITY_LOW)
